@@ -17,7 +17,7 @@
         
         "interval": 2,
         "inter_splash":"1",
-        "pengaturan_iklan":"2",
+        "pengaturan_iklan":"1",
         
         "fan_inter":"981545408591412_999151030164183",
         "fan_banner_native":"981545408591412_2709037092508893",
@@ -87,7 +87,7 @@
 			"id_wall":"001",
 			"nama_cat": "One Piece",
 			"judul":"Roronoa Zoro",
-			"image":"https://i.pinimg.com/736x/65/c2/11/65c211c2e3d902c3293e3ad285a1eefb.jpg"
+			"image":"https://mcdn.wallpapersafari.com/medium/22/34/QvwkX0.jpg"
 		},
 		{
 			"id":2,
@@ -101,14 +101,14 @@
 			"id_wall":"003",
 			"nama_cat": "Dragon Ball",
 			"judul":"Vegeta",
-			"image":"https://i.pinimg.com/564x/dc/c3/fa/dcc3fada941866ddc4b7e2ec5aa315f9.jpg"
+			"image":"https://mcdn.wallpapersafari.com/medium/22/34/QvwkX0.jpg"
 		},
 		{
 			"id":4,
 			"id_wall":"004",
 			"nama_cat": "Dragon Ball",
 			"judul":"Kamen Shenin",
-			"image":"https://i.pinimg.com/564x/fc/98/77/fc9877fedfdb69e449e7fd9aae1230e6.jpg"
+			"image":"https://mcdn.wallpapersafari.com/medium/22/34/QvwkX0.jpg"
 		}
 		
 		,
