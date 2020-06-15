@@ -59,28 +59,7 @@
 
 	],
 	
-	"Categories": [
-    {
-      "id": 1,
-      "nama_cat": "Dragon Ball",
-      "gambar": "https://mcdn.wallpapersafari.com/medium/22/34/QvwkX0.jpg"
-     
-    },
-    {
-      "id": 2,
-      "nama_cat": "Naruto",
-      "gambar": "https://mcdn.wallpapersafari.com/medium/8/65/8fjbSt.jpg"
-    
-    },
-    {
-      "id": 3,
-      "nama_cat": "One Piece",
-      "gambar": "https://cdn.idntimes.com/content-images/duniaku/post/20200404/one-piece-sanji-zoro-jinbe-4690e6c5f37b3a36951f5dfa8dfd30c3_600x400.jpg"
-    
-    }
-  ],
-
-	"Wallpaper":
+		"Wallpaper":
 	[	
 		{
 			"id":1,
