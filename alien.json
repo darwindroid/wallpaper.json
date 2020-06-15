@@ -13,7 +13,7 @@
         "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
         "gambar_promote": "https://lh3.googleusercontent.com/WRXTlRS8Gfj3F-3nQoOBsI8Qg4GXcmfd4DjUJ2YiarTgfB9OPRk0BVX8ESnKYDxyeQ=w1366-h657-rw",
         "link_promote": "https://www.google.com/",
-        "status_promote": "1",
+        "status_promote": "0",
         
         "interval": 2,
         "inter_splash":"1",
