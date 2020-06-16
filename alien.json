@@ -1,17 +1,17 @@
-{	"Iklan": [
+{ "Iklan": [
         {
         "status": "0",
-        "link": "https://play.google.com/store/apps/details?id=com.andromo.dev623844.app774462",
+        "link": "https://play.google.com/store/apps/details?id=com.",
         
         "appid": "pub-3940256099942544",
         "admobappid": "ca-app-pub-3940256099942544~3347511713",
         "interid": "ca-app-pub-3940256099942544/1033173712",
         "nativeid": "ca-app-pub-3940256099942544/2247696110",
         
-        "icon_promote": "https://lh3.googleusercontent.com/Gd6YfNgPJ1syGRxDBRhtVTBlL-FtuKHMfCutEwQgVL_fHSIy2ITBqIAkUgJbOJwqKQ=s180-rw",
+        "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
         "judul_promote": "Promote App Example",
         "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
-        "gambar_promote": "https://lh3.googleusercontent.com/WRXTlRS8Gfj3F-3nQoOBsI8Qg4GXcmfd4DjUJ2YiarTgfB9OPRk0BVX8ESnKYDxyeQ=w1366-h657-rw",
+        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
         "link_promote": "https://www.google.com/",
         "status_promote": "0",
         
@@ -37,28 +37,29 @@
     ],
 
 "More":
-	[	
-		{
+  [ 
+    {
     "id":1,
-    "judul":"Throw Disc 3D Ultimate",
-    "image":"https://lh3.googleusercontent.com/Gd6YfNgPJ1syGRxDBRhtVTBlL-FtuKHMfCutEwQgVL_fHSIy2ITBqIAkUgJbOJwqKQ=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.discthroe.highfrisbee.trnd"
+    "judul":"Ludo King",
+    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
   },
   {
     "id":2,
-    "judul":"Super VPN Proxy Free",
-    "image":"https://lh3.googleusercontent.com/vNAwkiKzrekztK3zTLqT-h7-Cpor1a6yHYuuJAvU8h4CJqs8gXQQ8OBTlJJb_UOEQg=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.fastborg.VPNFree"
+    "judul":"Homescapes",
+    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
   },
   {
     "id":3,
-    "judul":"Easy Crossword Puzzles",
-    "image":"https://lh3.googleusercontent.com/4z8IJEVScqEkRp8CquFLgTWNdJv2PRQFrqtefXOsYW9iLT_8rAYIZ3yeFNC1O4ppM_E=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.quick.easycrosswordpuzzles"
+    "judul":"Minecraft",
+    "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
   }
 
-	],
-	"Categories": [
+  ],
+  
+  "Categories": [
     {
       "id": 1,
       "nama_cat": "Dragon Ball",
@@ -78,87 +79,53 @@
     
     }
   ],
-	
-		"Wallpaper":
-	[	
-		{
-			"id":1,
-			"id_wall":"001",
-			"nama_cat": "Motocross",
-			"judul":"HD Picture",
-			"image":"https://www.wallpapermaiden.com/image/2019/03/11/rally-motocross-dirt-bike-reflection-water-31047-resized.jpeg"
-		},
-		{
-			"id":2,
-			"id_wall":"002",
-			"nama_cat": "Motocross",
-			"judul":"HD Picture",
-			"image":"https://www.wallpapermaiden.com/image/2018/08/13/motocross-dirt-motorcycle-22986-resized.jpeg"
-		},
-			{
-			"id":3,
-			"id_wall":"003",
-			"nama_cat": "Motocross",
-			"judul":"HD Picture",
-			"image":"https://www.wallpapermaiden.com/image/2018/05/24/motocross-dirt-racing-sports-21433-resized.jpg"
-		},
-		{
-			"id":4,
-			"id_wall":"004",
-			"nama_cat": "Motocross",
-			"judul":"HD Picture",
-			"image":"https://www.wallpapermaiden.com/image/2018/05/12/motocross-dirt-sports-21276-resized.jpg"
-		},
-			{
-			"id":5,
-			"id_wall":"005",
-			"nama_cat": "Motocross",
-			"judul":"HD Picture",
-			"image":"https://www.wallpapermaiden.com/image/2018/12/25/motocross-rally-sky-28342-resized.jpeg"
-		},
-		{
-			"id":6,
-			"id_wall":"006",
-			"nama_cat": "Motocross",
-			"judul":"HD Picture",
-			"image":"https://www.wallpapermaiden.com/image/2018/01/05/motocross-dirt-dark-clouds-sports-19310-resized.jpg"
-		},
-		{
-			"id":7,
-			"id_wall":"007",
-			"nama_cat": "Motocross",
-			"judul":"HD Picture",
-			"https://wallpapercave.com/wp/QmdCPDR.jpg"
-		},
-		{
-			"id":8,
-			"id_wall":"008",
-			"nama_cat": "Motocross",
-			"judul":"HD Picture",
-			"image":"https://3.bp.blogspot.com/-SfdVlxj61M0/XDGjnu84xaI/AAAAAAAAEbA/WHcaluOXLNIdM5RH7xSeoxPQ2D5_Br_twCHMYCw/s1600/motocross-whip-%25E2%259D%25A4-4k-hd-desktop-wallpaper-for-4k-ultra-hd-tv.jpg"
-		},
-		{
-			"id":9,
-			"id_wall":"009",
-			"nama_cat": "Motocross",
-			"judul":"HD Picture",
-			"image":"https://wallpapercave.com/wp/wp2804967.jpg"
-		},
-		{
-			"id":10,
-			"id_wall":"0010",
-			"nama_cat": "Motocross",
-			"judul":"HD Picture",
-			"image":"https://i.pinimg.com/originals/d3/d9/f0/d3d9f0a13b3379b8bdf4ecdd56a3be73.jpg"
-		
-		},
-		{
-			"id":11,
-			"id_wall":"0011",
-			"nama_cat": "Motocross",
-			"judul":"HD Picture",
-			"image":"https://wallpaperplay.com/walls/full/c/3/c/278338.jpg"
-		}
 
-	]
+  "Wallpaper":
+  [ 
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "One Piece",
+      "judul":"Roronoa Zoro",
+      "image":"https://i.pinimg.com/736x/65/c2/11/65c211c2e3d902c3293e3ad285a1eefb.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "One Piece",
+      "judul":"Jinbei",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ae01b20-3764-4fd7-91b0-57fd27d63bb5/dcx73le-c3f839c5-079a-4126-81e4-90d058d2e7fa.jpg/v1/fill/w_1024,h_1463,q_75,strp/jinbe_wci_card_by_leegrove_by_leegrove_dcx73le-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ2MyIsInBhdGgiOiJcL2ZcLzJhZTAxYjIwLTM3NjQtNGZkNy05MWIwLTU3ZmQyN2Q2M2JiNVwvZGN4NzNsZS1jM2Y4MzljNS0wNzlhLTQxMjYtODFlNC05MGQwNThkMmU3ZmEuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.tV0sqADZP93bqyibM1wcxzenXvrOcPXoEpsCDpfYDDA"
+    },
+      {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Dragon Ball",
+      "judul":"Vegeta",
+      "image":"https://i.pinimg.com/564x/dc/c3/fa/dcc3fada941866ddc4b7e2ec5aa315f9.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Dragon Ball",
+      "judul":"Kamen Shenin",
+      "image":"https://i.pinimg.com/564x/fc/98/77/fc9877fedfdb69e449e7fd9aae1230e6.jpg"
+    }
+    
+    ,
+      {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "One Piece",
+      "judul":"Shank",
+      "image":"https://static.zerochan.net/Shanks.full.1917475.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Naruto",
+      "judul":"Uchiha Itachi",
+      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
+    }
+
+  ]
 }
