@@ -58,6 +58,26 @@
   }
 
 	],
+	"Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Dragon Ball",
+      "gambar": "https://www.mainmain.id/uploads/post/2019/04/27/Dragon_ball_Super_Z.jpg"
+     
+    },
+    {
+      "id": 2,
+      "nama_cat": "Naruto",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/dVqITqcu9gJfpnWOgPEaAfol0eM=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/653825/original/naruto-anime-naruto-33923256-1920-1080.jpg"
+    
+    },
+    {
+      "id": 3,
+      "nama_cat": "One Piece",
+      "gambar": "https://cdn.idntimes.com/content-images/duniaku/post/20200404/one-piece-sanji-zoro-jinbe-4690e6c5f37b3a36951f5dfa8dfd30c3_600x400.jpg"
+    
+    }
+  ],
 	
 		"Wallpaper":
 	[	
@@ -88,9 +108,7 @@
 			"nama_cat": "Motocross",
 			"judul":"HD Picture",
 			"image":"https://www.wallpapermaiden.com/image/2018/05/12/motocross-dirt-sports-21276-resized.jpg"
-		}
-		
-		,
+		},
 			{
 			"id":5,
 			"id_wall":"005",
@@ -132,7 +150,7 @@
 			"nama_cat": "Motocross",
 			"judul":"HD Picture",
 			"image":"https://i.pinimg.com/originals/d3/d9/f0/d3d9f0a13b3379b8bdf4ecdd56a3be73.jpg"
-		},
+		{,
 		{
 			"id":11,
 			"id_wall":"0011",
