@@ -150,7 +150,8 @@
 			"nama_cat": "Motocross",
 			"judul":"HD Picture",
 			"image":"https://i.pinimg.com/originals/d3/d9/f0/d3d9f0a13b3379b8bdf4ecdd56a3be73.jpg"
-		{,
+		
+		},
 		{
 			"id":11,
 			"id_wall":"0011",
@@ -159,5 +160,5 @@
 			"image":"https://wallpaperplay.com/walls/full/c/3/c/278338.jpg"
 		}
 
-	],
+	]
 }
