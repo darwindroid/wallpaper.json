@@ -42,47 +42,36 @@
     ],
 
 "More":
-  [ 
-    {
+   [	
+		{
     "id":1,
-    "judul":"Ludo King",
-    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    "judul":"Throw Disc 3D Ultimate",
+    "image":"https://lh3.googleusercontent.com/Gd6YfNgPJ1syGRxDBRhtVTBlL-FtuKHMfCutEwQgVL_fHSIy2ITBqIAkUgJbOJwqKQ=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.discthroe.highfrisbee.trnd"
   },
   {
     "id":2,
-    "judul":"Homescapes",
-    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    "judul":"Super VPN Proxy Free",
+    "image":"https://lh3.googleusercontent.com/vNAwkiKzrekztK3zTLqT-h7-Cpor1a6yHYuuJAvU8h4CJqs8gXQQ8OBTlJJb_UOEQg=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.fastborg.VPNFree"
   },
   {
     "id":3,
-    "judul":"Minecraft",
-    "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    "judul":"Easy Crossword Puzzles",
+    "image":"https://lh3.googleusercontent.com/4z8IJEVScqEkRp8CquFLgTWNdJv2PRQFrqtefXOsYW9iLT_8rAYIZ3yeFNC1O4ppM_E=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.quick.easycrosswordpuzzles"
   }
 
-  ],
-  
+],
+    
   "Categories": [
     {
       "id": 1,
-      "nama_cat": "Dragon Ball",
-      "gambar": "https://www.mainmain.id/uploads/post/2019/04/27/Dragon_ball_Super_Z.jpg"
+      "nama_cat": "White background",
+      "gambar": "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
      
-    },
-    {
-      "id": 2,
-      "nama_cat": "Naruto",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/dVqITqcu9gJfpnWOgPEaAfol0eM=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/653825/original/naruto-anime-naruto-33923256-1920-1080.jpg"
-    
-    },
-    {
-      "id": 3,
-      "nama_cat": "One Piece",
-      "gambar": "https://cdn.idntimes.com/content-images/duniaku/post/20200404/one-piece-sanji-zoro-jinbe-4690e6c5f37b3a36951f5dfa8dfd30c3_600x400.jpg"
-    
     }
+    
   ],
 
   "Wallpaper":
