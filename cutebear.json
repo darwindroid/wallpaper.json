@@ -1,0 +1,168 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+        
+        "appid": "pub-3940256099942544",
+        "admobappid": "ca-app-pub-3940256099942544~3347511713",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        
+        "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
+        "judul_promote": "Promote App Example",
+        "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
+        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "link_promote": "https://www.google.com/",
+        "status_promote": "0",
+        
+        "interval": 2,
+        "inter_splash":"1",
+        "pengaturan_iklan":"1",
+        
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_native":"981545408591412_1232226853523265",
+        
+        "inmobi_inter": 1476878485960,
+        "inmobi_banner":1473189489298,
+        "inmobi_id":"1234567890qwerty0987654321qwerty12345",
+        
+        
+        "startaap":"1234567890",
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+        
+      
+       
+
+        }
+    ],
+
+"More":
+   [	
+		{
+    "id":1,
+    "judul":"Throw Disc 3D Ultimate",
+    "image":"https://lh3.googleusercontent.com/Gd6YfNgPJ1syGRxDBRhtVTBlL-FtuKHMfCutEwQgVL_fHSIy2ITBqIAkUgJbOJwqKQ=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.discthroe.highfrisbee.trnd"
+  },
+  {
+    "id":2,
+    "judul":"Super VPN Proxy Free",
+    "image":"https://lh3.googleusercontent.com/vNAwkiKzrekztK3zTLqT-h7-Cpor1a6yHYuuJAvU8h4CJqs8gXQQ8OBTlJJb_UOEQg=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.fastborg.VPNFree"
+  },
+  {
+    "id":3,
+    "judul":"Easy Crossword Puzzles",
+    "image":"https://lh3.googleusercontent.com/4z8IJEVScqEkRp8CquFLgTWNdJv2PRQFrqtefXOsYW9iLT_8rAYIZ3yeFNC1O4ppM_E=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.quick.easycrosswordpuzzles"
+  }
+
+],
+    
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "gettho",
+      "gambar": "https://wallpapercave.com/wp/wp5172835.png"
+     
+    }
+    
+  ],
+
+  "Wallpaper":
+  [ 
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "gettho",
+      "judul":"HD Wallpaper",
+      "image":"https://wallpapercave.com/wp/wp5172828.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "gettho",
+      "judul":"HD Wallpaper",
+      "image":"https://wallpapercave.com/wp/wp5172835.png"
+    },
+      {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "gettho",
+      "judul":"HD Wallpaper",
+      "image":"https://wallpapercave.com/wp/wp2638061.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "gettho",
+      "judul":"HD Wallpaper",
+      "image":"https://imga.androidappsapk.co/vb9QEEzfwRXM14KANHYa3s7NiuEHDqcU9hQAb-hP4CFNS5c8HtK1bFpo31l8tlcvkw0=h768"
+    }
+    
+    ,
+      {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "gettho",
+      "judul":"HD Wallpaper",
+      "image":"https://imgc.androidappsapk.co/HKT34Lk8n9jj8HflT3oBv6Sd8iygy1sBuTJfQknMX0IarPAKl-M928gfyHD3jDIEj2zg=h300"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "gettho",
+      "judul":"HD Wallpaper",
+      "image":"https://img1.androidappsapk.co/PLF37aJ9M1w-ZLVPp8Dglj_X8ZucD8AEjee_deGDRSgOfFFh7ZECORcbiijr2J39kg=h300"
+    },
+    {
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "gettho",
+      "judul":"HD Wallpaper",
+      "image":"https://wallpaper.dog/large/478836.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "gettho",
+      "judul":"HD Wallpaper",
+      "image":"https://wallpaper.dog/large/542091.jpg"
+    },
+    {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "gettho",
+      "judul":"HD Wallpaper",
+      "image":"https://wallpaper.dog/large/479780.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "gettho",
+      "judul":"HD Wallpaper",
+      "image":"https://wallpaper.dog/large/5452906.jpg"
+    },
+    {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "gettho",
+      "judul":"HD Wallpaper",
+      "image":"https://wallpaper.dog/large/10829732.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "gettho",
+      "judul":"HD Wallpaper",
+      "image":"https://wallpaper.dog/large/5464463.jpg"
+    }  
+	  
+
+  ]
+}
